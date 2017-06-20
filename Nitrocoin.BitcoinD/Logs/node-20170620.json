@@ -1,0 +1,71 @@
+{"@t":"2017-06-20T16:04:30.2253648Z","@m":"Using APPDATA environment variable for initializing application data","@i":"378944f3","SourceContext":"Nitrocoin.Bitcoin.Configuration"}
+{"@t":"2017-06-20T16:04:30.2343653Z","@m":"Creating data directory","@i":"edff85de","SourceContext":"Nitrocoin.Bitcoin.Configuration"}
+{"@t":"2017-06-20T16:04:30.2363654Z","@m":"Configuration file set to C:\\Users\\Anh\\AppData\\Roaming\\Nitrocoinbitcoin\\Main\\bitcoin.conf","@i":"f4d73177","SourceContext":"Nitrocoin.Bitcoin.Configuration"}
+{"@t":"2017-06-20T16:04:30.2383655Z","@m":"Creating configuration file","@i":"92ae9917","SourceContext":"Nitrocoin.Bitcoin.Configuration"}
+{"@t":"2017-06-20T16:04:30.2403656Z","@m":"Data directory set to C:\\Users\\Anh\\AppData\\Roaming\\Nitrocoinbitcoin\\Main","@i":"63e98243","SourceContext":"Nitrocoin.Bitcoin.Configuration"}
+{"@t":"2017-06-20T16:04:30.2423657Z","@m":"Configuration file set to C:\\Users\\Anh\\AppData\\Roaming\\Nitrocoinbitcoin\\Main\\bitcoin.conf","@i":"f4d73177","SourceContext":"Nitrocoin.Bitcoin.Configuration"}
+{"@t":"2017-06-20T16:04:30.8233990Z","@m":"Full node initialized on \"Main\"","@i":"2e1e92ef","0":"Main","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:04:30.8323995Z","@m":"Creating C:\\Users\\Anh\\AppData\\Roaming\\Nitrocoinbitcoin\\Main\\addrman.dat","@i":"a4793f48","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:04:30.8474003Z","@m":"Created","@i":"b3c5f21c","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:04:30.8484004Z","@m":"AddressManager is empty, discovering peers...","@i":"8307fdb3","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:04:30.8504005Z","@m":"Loading chain","@i":"0fec2720","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:04:30.8514006Z","@m":"FlushAddressManager starting","@i":"d238f230","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:04:30.8564009Z","@m":"Chain loaded at height 0","@i":"8f78b4c5","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:04:30.8584010Z","@m":"FlushChain starting","@i":"ca276e09","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:04:31.7114498Z","@m":"BlockStore.RelayWorker starting","@i":"1e2e1251","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:04:31.7134499Z","@m":"BlockStoreLoop.DownloadBlocks starting","@i":"c8d297b0","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:04:31.7144499Z","@m":"MemoryPool.RelayWorker starting","@i":"16d6329e","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:04:31.7174501Z","@m":"Loading Memory Pool...","@i":"c18c7299","SourceContext":"Nitrocoin.Bitcoin.MemoryPool"}
+{"@t":"2017-06-20T16:04:31.7194502Z","@m":"...Unable to load memory pool cache from .","@i":"47b0bdb1","SourceContext":"Nitrocoin.Bitcoin.MemoryPool"}
+{"@t":"2017-06-20T16:04:31.7514521Z","@m":"RPC Server is off based on configuration.","@i":"e3751db3","@l":"Warning","SourceContext":"Nitrocoin.Bitcoin.RPC"}
+{"@t":"2017-06-20T16:04:31.8304566Z","@m":"Node listening on:\r\n0.0.0.0:8333\r\n","@i":"1b614b0d","SourceContext":"Nitrocoin.Bitcoin.Connection"}
+{"@t":"2017-06-20T16:04:31.8344568Z","@m":"PeriodicLog starting","@i":"164cc275","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:04:36.8437433Z","@m":"======Node stats====== 06/20/2017 16:04:36 agent NitrocoinBitcoin:1.0.1\r\nHeaders.Height:    0        Headers.Hash:     000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f\r\nConsensus.Height:  0        Consensus.Hash:   000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f\r\nStore.Height:      0        Store.Hash:       000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f\r\n\r\n======Mempool======\r\nMempoolSize: 0    DynamicSize: 0 kb   OrphanSize: 0   \r\n\r\n======Connection======\r\n\r\n","@i":"60583349","SourceContext":"Nitrocoin.Bitcoin.FullNode.ConsensusStats"}
+{"@t":"2017-06-20T16:04:36.9547497Z","@m":"Application is shutting down...","@i":"90f52c38","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:04:36.9557497Z","@m":"FlushAddressManager stopping","@i":"20ba0392","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:04:36.9567498Z","@m":"PeriodicLog stopping","@i":"82e513fb","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:04:36.9587499Z","@m":"FlushChain stopping","@i":"d03053d1","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:04:36.9607500Z","@m":"BlockStore.RelayWorker stopping","@i":"c113d163","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:04:36.9627501Z","@m":"MemoryPool.RelayWorker stopping","@i":"02f9a6f7","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:04:36.9737507Z","@m":"BlockStoreLoop.DownloadBlocks stopping","@i":"ec408859","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:04:36.9797511Z","@m":"FlushAddressManager stopped","@i":"00110040","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:04:36.9817512Z","@m":"FlushChain stopped","@i":"c0449992","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:04:37.2147645Z","@m":"Flushing Cache CoinView...","@i":"f87fe809","SourceContext":"Nitrocoin.Bitcoin.Consensus"}
+{"@t":"2017-06-20T16:04:38.0278110Z","@m":"Flushing BlockStore...","@i":"3bf64868","SourceContext":"Nitrocoin.Bitcoin.BlockStore"}
+{"@t":"2017-06-20T16:04:38.0408118Z","@m":"Saving Memory Pool...","@i":"5628ace9","SourceContext":"Nitrocoin.Bitcoin.MemoryPool"}
+{"@t":"2017-06-20T16:04:38.0518124Z","@m":"...Memory Pool Saved 0 transactions","@i":"01457eb2","SourceContext":"Nitrocoin.Bitcoin.MemoryPool"}
+{"@t":"2017-06-20T16:04:38.0598129Z","@m":"Closing node pending...","@i":"cf5ef551","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:25.8624559Z","@m":"Using APPDATA environment variable for initializing application data","@i":"378944f3","SourceContext":"Nitrocoin.Bitcoin.Configuration"}
+{"@t":"2017-06-20T16:21:25.8704563Z","@m":"Configuration file set to C:\\Users\\Anh\\AppData\\Roaming\\Nitrocoinbitcoin\\Main\\bitcoin.conf","@i":"f4d73177","SourceContext":"Nitrocoin.Bitcoin.Configuration"}
+{"@t":"2017-06-20T16:21:25.8704563Z","@m":"Data directory set to C:\\Users\\Anh\\AppData\\Roaming\\Nitrocoinbitcoin\\Main","@i":"63e98243","SourceContext":"Nitrocoin.Bitcoin.Configuration"}
+{"@t":"2017-06-20T16:21:25.8714564Z","@m":"Configuration file set to C:\\Users\\Anh\\AppData\\Roaming\\Nitrocoinbitcoin\\Main\\bitcoin.conf","@i":"f4d73177","SourceContext":"Nitrocoin.Bitcoin.Configuration"}
+{"@t":"2017-06-20T16:21:26.0584671Z","@m":"Full node initialized on \"Main\"","@i":"2e1e92ef","0":"Main","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:26.0674676Z","@m":"Loading  C:\\Users\\Anh\\AppData\\Roaming\\Nitrocoinbitcoin\\Main\\addrman.dat","@i":"24766162","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:26.0814684Z","@m":"Loaded","@i":"849a2d4a","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:26.0814684Z","@m":"AddressManager is empty, discovering peers...","@i":"8307fdb3","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:26.0834685Z","@m":"FlushAddressManager starting","@i":"d238f230","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:26.1234708Z","@m":"Loading chain","@i":"0fec2720","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:26.1554726Z","@m":"Chain loaded at height 0","@i":"8f78b4c5","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:26.1554726Z","@m":"FlushChain starting","@i":"ca276e09","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:26.2134760Z","@m":"BlockStore.RelayWorker starting","@i":"1e2e1251","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:26.2144760Z","@m":"BlockStoreLoop.DownloadBlocks starting","@i":"c8d297b0","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:26.2154761Z","@m":"MemoryPool.RelayWorker starting","@i":"16d6329e","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:26.2174762Z","@m":"Loading Memory Pool...","@i":"c18c7299","SourceContext":"Nitrocoin.Bitcoin.MemoryPool"}
+{"@t":"2017-06-20T16:21:26.2184762Z","@m":"...Unable to load memory pool cache from .","@i":"47b0bdb1","SourceContext":"Nitrocoin.Bitcoin.MemoryPool"}
+{"@t":"2017-06-20T16:21:26.2224765Z","@m":"RPC Server is off based on configuration.","@i":"e3751db3","@l":"Warning","SourceContext":"Nitrocoin.Bitcoin.RPC"}
+{"@t":"2017-06-20T16:21:26.2614787Z","@m":"Node listening on:\r\n0.0.0.0:8333\r\n","@i":"1b614b0d","SourceContext":"Nitrocoin.Bitcoin.Connection"}
+{"@t":"2017-06-20T16:21:26.2614787Z","@m":"PeriodicLog starting","@i":"164cc275","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:31.0257512Z","@m":"Application is shutting down...","@i":"90f52c38","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:31.0297514Z","@m":"FlushAddressManager stopping","@i":"20ba0392","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:31.0317515Z","@m":"MemoryPool.RelayWorker stopping","@i":"02f9a6f7","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:31.0347517Z","@m":"FlushChain stopping","@i":"d03053d1","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:31.0397520Z","@m":"BlockStore.RelayWorker stopping","@i":"c113d163","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:31.0437522Z","@m":"BlockStoreLoop.DownloadBlocks stopping","@i":"ec408859","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:31.0447523Z","@m":"PeriodicLog stopping","@i":"82e513fb","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:31.0617533Z","@m":"FlushAddressManager stopped","@i":"00110040","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:31.0647534Z","@m":"FlushChain stopped","@i":"c0449992","SourceContext":"Nitrocoin.Bitcoin.FullNode"}
+{"@t":"2017-06-20T16:21:31.0897549Z","@m":"Flushing Cache CoinView...","@i":"f87fe809","SourceContext":"Nitrocoin.Bitcoin.Consensus"}
+{"@t":"2017-06-20T16:21:31.8227968Z","@m":"Flushing BlockStore...","@i":"3bf64868","SourceContext":"Nitrocoin.Bitcoin.BlockStore"}
+{"@t":"2017-06-20T16:21:31.8347975Z","@m":"Saving Memory Pool...","@i":"5628ace9","SourceContext":"Nitrocoin.Bitcoin.MemoryPool"}
+{"@t":"2017-06-20T16:21:31.8397978Z","@m":"...Memory Pool Saved 0 transactions","@i":"01457eb2","SourceContext":"Nitrocoin.Bitcoin.MemoryPool"}
+{"@t":"2017-06-20T16:21:31.8427979Z","@m":"Closing node pending...","@i":"cf5ef551","SourceContext":"Nitrocoin.Bitcoin.FullNode"}

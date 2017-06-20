@@ -1,0 +1,18 @@
+FROM Nitrocoinplatform/dotnet-build:1.0.0-preview2-1-003177
+
+MAINTAINER Dan Gershony - Nitrocoin Platform <dan.gershony@Nitrocoinplatform.com>
+
+RUN git clone https://github.com/nitro-coin/NitrocoinFullNode.git \
+	&& cd NitrocoinFullNode \
+	&& git checkout simulation/run1 \
+	&& dotnet restore \
+	&& cd Nitrocoin.BitcoinD \
+	&& dotnet build
+	
+VOLUME /root/.Nitrocoinbitcoin
+
+WORKDIR /NitrocoinFullNode/Nitrocoin.BitcoinD
+
+EXPOSE 21001 22002
+
+CMD ["dotnet", "run"]

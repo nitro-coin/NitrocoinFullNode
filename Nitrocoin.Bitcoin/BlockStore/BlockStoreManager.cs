@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using NBitcoin;
+using Nitrocoin.Bitcoin.Configuration;
+using Nitrocoin.Bitcoin.Connection;
+using Nitrocoin.Bitcoin.MemoryPool;
+
+namespace Nitrocoin.Bitcoin.BlockStore
+{
+	public class BlockStoreManager
+	{
+		private readonly ConcurrentChain chain;
+		private readonly ConnectionManager connection;
+		public BlockRepository BlockRepository { get; } // public for testing
+		public BlockStoreLoop BlockStoreLoop { get; } // public for testing
+
+		private readonly IDateTimeProvider dateTimeProvider;
+		private readonly NodeSettings nodeArgs;
+		public BlockStore.ChainBehavior.ChainState ChainState { get; }
+
+		public BlockStoreManager(ConcurrentChain chain, ConnectionManager connection, BlockRepository blockRepository,
+            IDateTimeProvider dateTimeProvider, NodeSettings nodeArgs, BlockStore.ChainBehavior.ChainState chainState, BlockStoreLoop blockStoreLoop)
+		{
+			this.chain = chain;
+			this.connection = connection;
+			this.BlockRepository = blockRepository;
+			this.dateTimeProvider = dateTimeProvider;
+			this.nodeArgs = nodeArgs;
+			this.ChainState = chainState;
+			this.BlockStoreLoop = blockStoreLoop;
+		}
+	}
+}

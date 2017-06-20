@@ -1,0 +1,10 @@
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.Bitcoin.Tests\bin\Debug\netcoreapp1.1\Stratis.Bitcoin.Tests.deps.json
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.Bitcoin.Tests\bin\Debug\netcoreapp1.1\Stratis.Bitcoin.Tests.runtimeconfig.json
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.Bitcoin.Tests\bin\Debug\netcoreapp1.1\Stratis.Bitcoin.Tests.runtimeconfig.dev.json
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.Bitcoin.Tests\obj\Debug\netcoreapp1.1\Nitrocoin.Bitcoin.Tests.csprojResolveAssemblyReference.cache
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.Bitcoin.Tests\obj\Debug\netcoreapp1.1\Nitrocoin.Bitcoin.Tests.csproj.Stratis.Bitcoin.Tests.dll.config
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.Bitcoin.Tests\obj\Debug\netcoreapp1.1\Nitrocoin.Bitcoin.Tests.AssemblyInfo.cs
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.Bitcoin.Tests\bin\Debug\netcoreapp1.1\Nitrocoin.Bitcoin.Tests.deps.json
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.Bitcoin.Tests\bin\Debug\netcoreapp1.1\Nitrocoin.Bitcoin.Tests.runtimeconfig.json
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.Bitcoin.Tests\bin\Debug\netcoreapp1.1\Nitrocoin.Bitcoin.Tests.runtimeconfig.dev.json
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.Bitcoin.Tests\obj\Debug\netcoreapp1.1\Nitrocoin.Bitcoin.Tests.csproj.Nitrocoin.Bitcoin.Tests.dll.config

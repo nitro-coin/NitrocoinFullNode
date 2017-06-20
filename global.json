@@ -1,0 +1,3 @@
+{
+  "projects": [ "Nitrocoin.Bitcoin", "Nitrocoin.Bitcoin.IntegrationTests", "Nitrocoin.Bitcoin.Tests", "Nitrocoin.BitcoinD", "Nitrocoin.NitrocoinD" ]
+}

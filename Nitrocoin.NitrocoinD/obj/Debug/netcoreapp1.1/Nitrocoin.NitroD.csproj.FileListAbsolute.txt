@@ -1,0 +1,13 @@
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.StratisD\bin\Debug\netcoreapp1.1\Stratis.StratisD.deps.json
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.StratisD\bin\Debug\netcoreapp1.1\Stratis.StratisD.runtimeconfig.json
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.StratisD\bin\Debug\netcoreapp1.1\Stratis.StratisD.runtimeconfig.dev.json
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.StratisD\obj\Debug\netcoreapp1.1\Nitrocoin.NitroD.csprojResolveAssemblyReference.cache
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.StratisD\obj\Debug\netcoreapp1.1\Nitrocoin.NitroD.AssemblyInfo.cs
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.StratisD\bin\Debug\netcoreapp1.1\Stratis.StratisD.dll
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.StratisD\bin\Debug\netcoreapp1.1\Stratis.StratisD.pdb
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.StratisD\bin\Debug\netcoreapp1.1\Nitrocoin.Bitcoin.Common.dll
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.StratisD\bin\Debug\netcoreapp1.1\Stratis.Bitcoin.dll
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.StratisD\bin\Debug\netcoreapp1.1\Stratis.Bitcoin.pdb
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.StratisD\bin\Debug\netcoreapp1.1\Nitrocoin.Bitcoin.Common.pdb
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.StratisD\obj\Debug\netcoreapp1.1\Stratis.StratisD.dll
+F:\wksp\New folder\StratisBitcoinFullNode\Stratis.StratisD\obj\Debug\netcoreapp1.1\Stratis.StratisD.pdb
